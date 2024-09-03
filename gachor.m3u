@@ -722,28 +722,53 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/236.m3u8
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/235.m3u8
 
 
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/236
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/showcase.png" group-title="🇲🇾 MALAYSIA",SHOWCASE MOVIE
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/236.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/showcase.png" group-title="🇲🇾 MALAYSIA",TV1
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/237
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/showcase.png" group-title="🇲🇾 MALAYSIA",TV2
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/238
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/239
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/240
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/241
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/242
+
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv3.png",TV 3
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/239.m3u8
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv6.png",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv8-my.png",TV 8
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/241.m3u8
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv-9.png",TV 9
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/242.m3u8
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv-9.png",OKEY
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/243
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv-9.png",RTB GO
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/244
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv-9.png",RTB GO LIVE
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/245
+
+#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/malaysia/tv-9.png",RTB GO 2
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/246
 
 
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/ufc.png" group-title="FIGHT",UFC FHD
 https://play-gachor.online/htv@lite/kjTECpmDmq/285
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/fight/unifi_sports.png" group-title="FIGHT",UNIFI SPORTS
 https://play-gachor.online/htv@lite/kjTECpmDmq/286.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/rmc.png" group-title="FIGHT",RMC Fight
 https://play-gachor.online/htv@lite/kjTECpmDmq/287
+
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/wwe.png" group-title="FIGHT",WWE
 https://play-gachor.online/htv@lite/kjTECpmDmq/289.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/fight/strongman.png" group-title="FIGHT",STRONGMAN
 https://play-gachor.online/htv@lite/kjTECpmDmq/288
 
@@ -751,9 +776,12 @@ https://play-gachor.online/htv@lite/kjTECpmDmq/288
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp1.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 1
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/332
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp2.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 2
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/333
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp3.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 3
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/334
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp4.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 4
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/335
