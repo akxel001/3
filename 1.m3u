@@ -6,11 +6,6 @@
 #https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png" group-title="Test",Dens Sport2
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsPvnqGbQsxW51otEwF0vh4
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="http://live-sportz.com/65e928e71eeb47c7ce171a70ebc33480.png" group-title="Test",Dens Sport3
-#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsdaWEM1IthXmrpGCLcwtc4
-
 
 ========= NASIONAL AUTO--=====
 
@@ -65,12 +60,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://i.imgur.com/FxS4HLZ.jpeg", MOJI TV A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 
-#http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCTV B " tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="NASIONAL AUTO",SCTV  B
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmNFiqRqSkFPWqM-ZBxNKiw
 
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV " tvg-logo="https://i.imgur.com/FxS4HLZ.jpeg" group-title="NASIONAL AUTO",MOJI TV B
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtEpbKeZorH4uK-vO64AB1E
 
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://i.imgur.com/FxS4HLZ.jpeg", MOJI V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,8 +93,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="NASIONAL AUTO",TRANS 7 B
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoxGYh3x0H1uUyYZNYzMCVc
 
 #EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7 C
 #http://metatvpro.xyz:25461/live/J2781/5030/103.ts|user-agent=Mozilla/5.0
@@ -132,8 +120,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="RCTI" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="NASIONAL AUTO",RCTI
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
+
 
 #EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5ef52a5904/441b76dc2d004adda2945df43736dd02.png" tvg-id="RCTI.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png",RCTI C
 
@@ -175,8 +162,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mp
 deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://cempedak-cdn-fly.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-m.png",INEWS HD 2
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnIdWc9j-LG8A3haViRdZsQ
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
@@ -199,8 +185,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="NASIONAL HD 1", INDOSIAR HD
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlo-Oof8f7AcwqBUjOwb7to|User-Agent=OTTNavigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="NASIONAL HD 1", INDOSIAR HD
@@ -1588,9 +1572,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium131/index.m3u8
 
 
 =======TV DAERAH===========
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD53SdC52blB6VUEVRIZUSX1E-6dQTiWOBQkv9lnk&s=0" group-title="TV DAERAH",JOWO CHANNEL
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06qlix8dgcpSf55pBP8R8X4
-
 #EXTINF:-1 group-title="TV DAERAH" tvg-id="DMTV MALANG" tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png",DMTV MALANG
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch51.m3u8
